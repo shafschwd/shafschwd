@@ -1,7 +1,7 @@
                                                                   Hello 👋
 
-<!--
-**shafschwd/shafschwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **shafschwd/shafschwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shafschwd&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafschwd&layout=compact&show_icons=true&theme=gotham)
+ -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafschwd&show_icons=true&theme=gotham" />
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafschwd&layout=compact&show_icons=true&theme=gotham" />
