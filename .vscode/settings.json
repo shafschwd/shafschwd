@@ -1,5 +1,8 @@
 {
     "emmet.includeLanguages": {
         "markdown": "html"
-    }
+    },
+    "[markdown]": {
+        "editor.quickSuggestions": true
+    },
 }
